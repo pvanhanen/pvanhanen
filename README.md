@@ -1,3 +1,2 @@
 - Currently in front-end projects.
 - Currently working with: JS, HTML, CSS, PHP, Node
-- Learning: R
